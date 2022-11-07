@@ -6,7 +6,7 @@ blurb:
   heading: Why to store electric energy?
   text: Storing any energy may lower your bills.
 intro:
-  heading: What we offer
+  heading: Reasonable cost of project.
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
