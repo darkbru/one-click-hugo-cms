@@ -1,5 +1,5 @@
 ---
-title: Values
+title: Sky is a limit
 image: img/m31.jpg
 values:
   - heading: Shade-grown coffee
