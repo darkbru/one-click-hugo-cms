@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a conscience
+title: Energy Management Project
 subtitle: Support sustainable farming while enjoying a cup
 image: img/laskozickistaw04.jpg
 blurb:
