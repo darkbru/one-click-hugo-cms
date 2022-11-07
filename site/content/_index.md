@@ -1,6 +1,6 @@
 ---
 title: Energy Management Project
-subtitle: Support sustainable energy farming while enjoying you live
+subtitle: Cheap energy farming while enjoying you live
 image: img/laskozickistaw04.jpg
 blurb:
   heading: Why to store electric energy?
