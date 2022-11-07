@@ -15,7 +15,7 @@ values:
       origin. Sometimes, this is a single farm or a specific collection of beans
       from a single country. The name of the coffee is then usually the place it
       was grown to whatever degree available.
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: img/m82.jpg
   - heading: Sustainable farming
     text: >
       Sustainable agriculture is farming in sustainable ways based on an
